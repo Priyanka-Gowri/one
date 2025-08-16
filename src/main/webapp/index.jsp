@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>monsoon Collection 2024</h1>
+            <h1>summer Collection 2025</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -991,7 +991,7 @@
                         </div>
                     </div>
                     
-                    <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">-17%</span></div>
+                    <div class="deal-price">$999 <span class="deal-old-price">$1,199</span> <span class="deal-discount">50%</span></div>
                     
                     <p>Only <strong>12</strong> items left at this price!</p>
                     
